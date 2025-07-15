@@ -1,0 +1,54 @@
+{
+  "report_title": "Sales Report Q2 2025",
+  "report_date": "2025-07-06",
+  "summary": {
+    "total_revenue": 32450.75,
+    "order_count": 128,
+    "avg_order_value": 253.52,
+    "top_category": "Electronics"
+  },
+  "monthly_sales": {
+    "April": 10450.25,
+    "May": 11200.00,
+    "June": 10800.50
+  },
+  "category_sales": {
+    "Electronics": 14500,
+    "Clothing": 9000,
+    "Books": 3950,
+    "Home & Kitchen": 3000
+  },
+  "top_products": [
+    {
+      "name": "Wireless Headphones",
+      "units_sold": 35,
+      "revenue": 5250,
+      "unit_price": 150
+    },
+    {
+      "name": "Smart Watch",
+      "units_sold": 30,
+      "revenue": 4500,
+      "unit_price": 150
+    },
+    {
+      "name": "Laptop Bag",
+      "units_sold": 50,
+      "revenue": 3750,
+      "unit_price": 75
+    },
+    {
+      "name": "Sneakers",
+      "units_sold": 40,
+      "revenue": 3600,
+      "unit_price": 90
+    },
+    {
+      "name": "Cookbook",
+      "units_sold": 60,
+      "revenue": 1800,
+      "unit_price": 30
+    }
+  ],
+  "notes": "Sales increased slightly compared to Q1. Electronics continue to dominate, but Clothing is showing strong growth. June saw a minor drop due to stock shortages."
+}

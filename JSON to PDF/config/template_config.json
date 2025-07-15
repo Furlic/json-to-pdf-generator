@@ -1,0 +1,34 @@
+{
+  "report_title": {
+    "action": "text",
+    "style": "bold_center",
+    "show_title": "off"
+  },
+  "report_date": {
+    "action": "text",
+    "style": "bold_left",
+    "show_title": "on"
+  },
+  "summary": {
+    "action": "table",
+    "title": "summary"
+  },
+  "monthly_sales": {
+    "action": "plot",
+    "type": "line",
+    "title": "monthly_sales"
+  },
+  "category_sales": {
+    "action": "plot",
+    "type": "pie",
+    "title": "category_sales"
+  },
+  "top_products": {
+    "action": "list_table"
+  },
+  "notes": {
+    "action": "text",
+    "style": "normal_left",
+    "show_title": "on"
+  }
+}
